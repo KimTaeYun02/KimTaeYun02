@@ -1,5 +1,5 @@
 TaeYun Kim (School of Computer Science & Engineering 🖥️, Chung-Ang Univ.)
-## 👋 Hello My name is Doyeon.  
+## 👋 Hello My name is Taeyun.  
 
 </a> <a href="https://instagram.com/_taeyoon02_"> <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doyeon010420@gmail.com)](mailto:doyeon010420@gmail.com)
