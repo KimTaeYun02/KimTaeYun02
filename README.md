@@ -7,7 +7,7 @@ TaeYun Kim (School of Computer Science & Engineering 🖥️, Chung-Ang Univ.)
 - 💻 I'm majoring in **Computer Science&Engineering** at **Chung-Ang University(2021~ )**.  
 - 📊 I'm interested in **Data Science** and **Computer Vision**.
 
-## Experience
+#### Experience
 CUAI(Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 학회), 2021.03 ~ present
 
 
