@@ -5,7 +5,7 @@ TaeYun Kim (School of Computer Science & Engineering 🖥️, Chung-Ang Univ.)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xodbs1270@gmail.com)](mailto:xodbs1270@gmail.com)
 
 - 💻 I'm majoring in **Computer Science&Engineering** at **Chung-Ang University(2021~ )**.  
-- 📊 I'm interested in **Data Science** and **Computer Vision**.
+- 📊 I'm interested in  **Computer Vision**.
 
 #### Experience
 CUAI(Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 학회), 2021.03 ~ present
